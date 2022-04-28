@@ -3,6 +3,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch main",
+      "request": "launch",
+      "mainClass": "PRUEBAS.main",
+      "projectName": "my-store_3ded85e1"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArregloMayor",
+      "request": "launch",
+      "mainClass": "PRUEBAS.ArregloMayor",
+      "projectName": "my-store_3ded85e1"
+    },
+    {
       "name": "ng serve",
       "type": "pwa-chrome",
       "request": "launch",
